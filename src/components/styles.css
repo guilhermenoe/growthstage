@@ -1,0 +1,8 @@
+.growth-stage-chart-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin: 10px auto;
+}
